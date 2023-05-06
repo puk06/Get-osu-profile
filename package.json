@@ -1,0 +1,10 @@
+{
+  "name": "get-osu-profile",
+  "version": "1.0.1",
+  "description": "You can use osu!api v1's Getuser easily",
+  "main": "getuserdata.js",
+  "license": "MIT",
+  "dependencies": {
+    "get-osu-profile": "^1.0.0"
+  }
+}
